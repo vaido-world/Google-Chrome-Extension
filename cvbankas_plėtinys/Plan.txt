@@ -1,0 +1,19 @@
+CVbanko plėtinys
+
+Open a Webpage
+Scan webpage for slary
+Generate a new page sorted by salary
+Sort by salary
+Make a webpage Continous scrolling.
+
+https://www.google.com/search?q=chrome+extension+load+page+append+after&sxsrf=ALeKk03LnctEz6FQ-XOp-B-QEj1Ih9p2uw%3A1616752759235&ei=d7BdYNHmDdDJrgTj46CgCw&oq=chrome+extension+load+page+append+after&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEBYQHRAeOgcIABBHELADOgYIABAWEB46BwghEAoQoAE6BQghEKABOgQIIRAVUIQ7WNdLYPxOaARwAngAgAF_iAHrCZIBAzkuNJgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwiR_pyv2c3vAhXQpIsKHeMxCLQQ4dUDCA0&uact=5
+
+https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+
+https://www.cvbankas.lt/
+
+
+Example With google: https://chrome.google.com/webstore/detail/infinite-scroll-for-googl/acjdmkdcbbhokaleofmalpcnnkpgphpb
+
+Load a page into HTML
+https://stackoverflow.com/a/17642783/3789797

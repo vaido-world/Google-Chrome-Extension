@@ -1,0 +1,5 @@
+The "CV" logo has been generated using:
+https://prefinem.com/simple-icon-generator
+
+Icons has been resized to comply with the resolution of Chrome Extensions Manifest.
+Using: https://www.softicons.com/icon-tools/icon-converter
